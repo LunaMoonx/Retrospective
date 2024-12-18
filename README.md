@@ -1,6 +1,6 @@
 # Retrospective
 ## :thinking: Problem Statement
-### Zombie Hosts in Ansible Inventories
+#### Zombie Hosts in Ansible Inventories
 - #### Current State
     - Currently EC2 hosts being registered into Ansible Inventories
         aren't being removed once EC2 has been terminated. This has 
