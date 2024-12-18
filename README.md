@@ -10,7 +10,7 @@
 - #### Pain Points
     - Teams are having to go through Inventories manually to remove
         any host that are no longer reachable. 
-    - Delays in App development
+    - Delays in App development, App deployment
         and misconfigurations on some host.
 
 ## :mag_right: Solution Overview
