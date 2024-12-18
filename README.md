@@ -29,4 +29,4 @@
     - Cost-effective, only triggering as needed.
 
 
-![alt text](assets/TowerJob.png "Logo Title Text 1")
+![alt text](assets/TowerJob.png "Architecture")
