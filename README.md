@@ -21,6 +21,9 @@
         which will trigger a Lambda Function and call the Tower API
         to Trigger Clean up workflow.
 - #### How it Solves the Problem
+    - Frees up teams from having to manually maintain Ansible Inventories.
+    - Workflow will go through on Ansible Inventories and remove 
+        that Zombie Host.
     - Provides High Availability and will scale as the 
         organization grows and expands its AWS Account footprint.
     - Cost-effective, only triggering as needed.
