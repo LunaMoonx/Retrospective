@@ -2,10 +2,10 @@
 ## :thinking: Problem Statement
 ### Zombie Host in Ansible Inventories
 - #### Current 
-Currently EC2 hosts being registered into Ansible Inventories
-aren't being removed once EC2 has been terminated. This has 
-been causing issues with App deployments as well as EC2 
-Configuration.
+- Currently EC2 hosts being registered into Ansible Inventories
+    aren't being removed once EC2 has been terminated. This has 
+    been causing issues with App deployments as well as EC2 
+    Configuration.
 
 - #### Pain Points
     - Teams are having to go through Inventories manually to remove
